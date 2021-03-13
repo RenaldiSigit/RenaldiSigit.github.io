@@ -14,5 +14,5 @@ config = untuk menyetting identitas kita
 push = untuk mengupload perubahan file ke repo di github kita
 pull = untuk mengambil perubahan file yang ada di repo github kita
 branch = cabang project yang kita buat
-fork = menambah kontributor untuk project yang dibuat
+fork = menambah jalur baru pada branch utama kita
 merge = menggabungkan branch yang kita buat ke branch utama kita
