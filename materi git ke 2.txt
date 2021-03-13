@@ -1,6 +1,7 @@
 git merupakan version control system
 vcs = system untuk mengelola perubahan dari sebuah dokumen atau file yang ada di repo
-intinya git adalah software untuk mengelola perubahan dari sebuah dokumen atau file yang ad di repo
+intinya git adalah software untuk mengelola perubahan dari sebuah dokumen atau file yang ada di repo
+github adalah sebuah website untuk mengelola git
 
 
 git clone link-repo = untuk clone/download repo yang kita punya
