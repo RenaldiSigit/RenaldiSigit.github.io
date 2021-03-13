@@ -1,3 +1,8 @@
+git merupakan version control system
+vcs = system untuk mengelola perubahan dari sebuah dokumen atau file yang ada di repo
+intinya git adalah software untuk mengelola perubahan dari sebuah dokumen atau file yang ad di repo
+
+
 git clone link-repo = untuk clone/download repo yang kita punya
 git add namafile-yangakandicommit = untuk menambahkan file yang akan di commit
 git add .  = untuk menambahkan semua file yang akan di commit
