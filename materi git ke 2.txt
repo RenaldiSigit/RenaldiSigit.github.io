@@ -1,0 +1,18 @@
+git clone link-repo = untuk clone/download repo yang kita punya
+git add namafile-yangakandicommit = untuk menambahkan file yang akan di commit
+git add .  = untuk menambahkan semua file yang akan di commit
+git commit -m "pesan perubahanya" = untuk commit ke repo kita
+git push origin "branch" = untuk mengupload perubahan yang telah kita buat di commit tadi
+
+istilah istilah / perintah yang digunakan
+commit = perintah untuk perubahan yang kita buat
+clone = downlaod/clone repo kita
+repo = folder project kita
+add . = menambahkan file yang akan kita commit
+status = untuk melihat file apa saja yang belum di commit
+config = untuk menyetting identitas kita
+push = untuk mengupload perubahan file ke repo di github kita
+pull = untuk mengambil perubahan file yang ada di repo github kita
+branch = cabang project yang kita buat
+fork = menambah kontributor untuk project yang dibuat
+merge = menggabungkan branch yang kita buat ke branch utama kita
